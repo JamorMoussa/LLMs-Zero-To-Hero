@@ -5,7 +5,7 @@ From next-word predictors to advanced AI agents: A complete guide to mastering L
 ## 📚 Table of Contents
 
 
-**📘 00. Introduction**
+### 📘 00. Introduction**
 
 
 
