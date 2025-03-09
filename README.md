@@ -2,16 +2,14 @@
 From next-word predictors to advanced AI agents: A complete guide to mastering Large Language Models (LLMs) and their deployment.
 
 
-## 📚 Table of Contents
+## 📚 Table of Contents  
 
-
-- #### **00. Introduction.**
-- #### **01. Foundations & Pre-Training of LLMs: Tokenizers & Transformer Architecture.**
-- #### **02. Intsruct Models & RAG systems.**
-- #### **03. Post-Training & Finetuning.**
-- #### **04. LLMs Inference and Deployment.**
-- #### **05. Conclusion.**
-
+- #### **00. Introduction**  
+- #### **01. Building Blocks of LLMs: Tokenizers & Transformer Architecture**  
+- #### **02. Instruction Models & Retrieval-Augmented Generation (RAG) Systems**  
+- #### **03. Post-Training Techniques & Fine-Tuning Strategies**  
+- #### **04. LLM Inference & Deployment Best Practices**  
+- #### **05. Conclusion**  
 
 ## 🔗 References:
 
