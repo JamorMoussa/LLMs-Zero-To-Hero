@@ -1,0 +1,61 @@
+site_name: LLMs Zero To Hero
+site_url: https://www.learnpytorch.io
+site_description: From next-word predictors to advanced AI agents. A complete guide to mastering Large Language Models (LLMs) and their deployment. 
+
+repo_url: https://github.com/JamorMoussa/LLMs-Zero-To-Hero
+repo_name: JamorMoussa/LLMs-Zero-To-Hero
+
+theme:
+  name: material
+  # logo: assets
+  # favicon: assets/ztm-logo-and-pytorch-logo.png
+  features:
+    - navigation.instant
+    - navigation.top
+  palette:
+    # Palette toggle for light mode
+    - scheme: black
+      primary: black
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - meta
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  
+plugins:
+ - mkdocs-jupyter:
+    include_source: True
+ - search
+ - social
+
+edit_uri: ""
+
+nav:
+  - Home: 'README.md'
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mrdbourke
+    - icon: fontawesome/brands/github
+      link: https://github.com/mrdbourke/pytorch-deep-learning
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ

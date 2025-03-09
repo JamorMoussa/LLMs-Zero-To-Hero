@@ -1,0 +1,4 @@
+mkdocs-material==9.6.7
+mkdocs-jupyter==0.25.1
+pillow==11.1.0
+cairosvg==2.7.1
