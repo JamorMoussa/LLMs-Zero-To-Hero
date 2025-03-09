@@ -1,3 +1,6 @@
 #!/usr/bin/env bash
 
 cp -f README.md ./docs/
+00_introduction_to_llms.ipynb
+cp -f  00_introduction_to_llms.ipynb ./docs/
+cp -f 01_building_blocks_of_llms_tokenizers_transformer_architecture.ipynb ./docs/

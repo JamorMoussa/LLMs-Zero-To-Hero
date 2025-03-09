@@ -50,6 +50,8 @@ edit_uri: ""
 
 nav:
   - Home: 'README.md'
+  - 00. Introduction to LLMs : 00_introduction_to_llms.ipynb
+  - 01. Building Blocks of LLMs - Tokenizers & Transformer Architecture : 01_building_blocks_of_llms_tokenizers_transformer_architecture.ipynb
 
 extra:
   social:
