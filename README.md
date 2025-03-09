@@ -4,13 +4,13 @@ From next-word predictors to advanced AI agents: A complete guide to mastering L
 
 ## 📚 Table of Contents  
 
-- #### **00. Introduction**  
-- #### **01. Building Blocks of LLMs: Tokenizers & Transformer Architecture**  
+#### **00. Introduction**  
+#### **01. Building Blocks of LLMs: Tokenizers & Transformer Architecture**  
     1. Let's build the GPT Tokenizer
-- #### **02. Instruction Models & Retrieval-Augmented Generation (RAG) Systems**  
-- #### **03. Post-Training Techniques & Fine-Tuning Strategies**  
-- #### **04. LLM Inference & Deployment Best Practices**  
-- #### **05. Conclusion**  
+#### **02. Instruction Models & Retrieval-Augmented Generation (RAG) Systems**  
+#### **03. Post-Training Techniques & Fine-Tuning Strategies**  
+#### **04. LLM Inference & Deployment Best Practices**  
+#### **05. Conclusion**  
 
 ## 🔗 References:
 
