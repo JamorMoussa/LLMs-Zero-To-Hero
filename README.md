@@ -13,7 +13,7 @@ From next-word predictors to advanced AI agents: A complete guide to mastering L
 ### 📘 05. Conclusion.
 
 
-## 🔗 References
+## 🔗 References:
 
 1. [Build a Large Language Model (From Scratch) By rasbt](https://github.com/rasbt/LLMs-from-scratch?tab=readme-ov-file)
 
