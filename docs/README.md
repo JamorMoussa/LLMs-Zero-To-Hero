@@ -1,4 +1,4 @@
-# Large Langugae Models - Zero To Hero
+# Large Language Models - Zero To Hero
 From next-word predictors to advanced AI agents: A complete guide to mastering Large Language Models (LLMs) and their deployment.
 
 
