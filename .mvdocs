@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+jq -M 'del(.metadata.widgets)' 01_building_blocks_of_llms_tokenizers_transformer_architecture.ipynb > temp.ipynb && mv temp.ipynb 01_building_blocks_of_llms_tokenizers_transformer_architecture.ipynb
+
 cp -f README.md ./docs/
 cp -f 00_introduction_to_llms.ipynb ./docs/
 cp -f 01_building_blocks_of_llms_tokenizers_transformer_architecture.ipynb ./docs/
