@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+git add assets/
+git commit -m "add images to assets"
+git push
